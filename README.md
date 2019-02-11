@@ -14,7 +14,7 @@ The goal of this lab is to fork another team's website and to try to improve it.
 
 Ontology, taxonomy, and choreography to be decided soon!
 
-## Rough Outline of Information Architecture:
+## Rough Outline of Information Architecture
 
 - Domain: influential topics
 - Choreography: It's arguable that philosophers (with a focus on logic) have led to the creation of programming languages.  These programming languages shaped the creation of these streaming services.  That's the ordering 
