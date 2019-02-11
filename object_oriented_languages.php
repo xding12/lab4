@@ -1,5 +1,5 @@
 <?php include "includes/header.inc"?>
-
+<title> Team Hell | OOL</title>
 <body class="container">
 <header>
 		<h1>Objected Oriented Languages</h1>

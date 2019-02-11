@@ -1,5 +1,5 @@
 <?php include "includes/header.inc"?>
-
+<title> Team Hell | Streaming Services</title>
 <body class="container">
 <header>
 		<h1>Streaming Services</h1>
