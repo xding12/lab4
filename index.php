@@ -1,5 +1,6 @@
 <?php include "includes/header.inc"?>
 <title> Team Hell | Home</title>
+</head>
 	<body class="container">
 		<header>
 			<h1>Here is the index of all our interesting options</h1>

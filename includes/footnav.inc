@@ -9,7 +9,6 @@
 		<li><a href="streaming_services.php">Streaming</a></li>
 	</ul>
 </nav>
-</div> <!--.container -->
 
 
  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>

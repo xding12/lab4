@@ -1,5 +1,6 @@
 <?php include "includes/header.inc"?>
 <title> Team Hell | Philosophers</title>
+</head>
 <body class="container">
 <header>
 		<h1>The Big Three Philosophers</h1>
