@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-	<head>
-		<meta charset="utf-8">
-		<title>Home | Smash Site</title>
-		<link rel="stylesheet" href="css/styles.css">
-	</head>
+<?php include "includes/header.inc"?>
 	<body class="container">
 		<header>
 			<h1>Here is the index of all our interesting options</h1>
