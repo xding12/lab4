@@ -10,8 +10,6 @@ The goal of this lab is to fork another team's website and to try to improve it.
 - Designer: [Chadia Bedetse](https://github.com/bchadia)
 - Coder: [Xiabo (Sharon) Ding](https://github.com/xding12)
 
-Ontology, taxonomy, and choreography to be decided soon!
-
 ## Rough Outline of Information Architecture
 
 - Domain: influential idea makers & ideas
