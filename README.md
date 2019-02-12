@@ -12,23 +12,22 @@ The goal of this lab is to fork another team's website and to try to improve it.
 
 ## Rough Outline of Information Architecture
 
-- Domain: influential idea makers & ideas
-- Choreography: It's arguable that philosophers (with a focus on logic) have led to the creation of programming languages.  These programming languages shaped the creation of streaming services.  That's how the site will be ordered (in the order of how things affected each other).  Philosophers -> programming languages -> streaming services
+- Domain: Influential idea makers & the ideas that resulted (note that everything we talk about fits both of these descriptions).  
+- Choreography: It's arguable that philosophers (with a focus on logic) have led to the creation of programming languages.  These programming languages shaped the creation of streaming services.  That's how the site will be ordered (in the order of how things affected each other).  Philosophers -> programming languages -> streaming services.  Within each page, the specific examples are ordered by date of creation (e.g. Socrates -> Plato -> Aristotle or Netflix -> Hulu -> YouTube TV).  All ordering found is chronological.
 
 ### Ontology
 
-- Each topic has a name.
-- Each topic has a background.
-- Each topic has a date of creation.
-- Each topic has specific instances/examples.
-- Each topic has an impact on modern day.
+- Each topic has a name summarizing what the topic is.
+- Each topic has specific instances/examples of that topic.
+- Each topic has a background, and within that, each specific instance has a background.
+- Each specific instance of the topic has a date of creation.
+- Each topic has an impact on modern life.
 
 ### Possible taxology
 
-- Name
-- Background
-- Date of creation
-- Specific instances/examples
+- Name of Topic
+- Background and Specific Instances
+- Dates of Creation
 - Impact on Modern Day
 
 ### Areas of Improvement (from Original Team's Assignment)
