@@ -1,7 +1,5 @@
 # Lab 4: Information Architecture
 
-------
-
 We were once :crown:**Queens**:crown:, and we are now :fire:**Hell, Michigan**:fire:!
 
 The goal of this lab is to fork another team's website and to try to improve it.  We'll be taking the original *Hell's* Assignment 3 (which dealt with programming languages, philosphers, and streaming services) and putting our own spin on it.
