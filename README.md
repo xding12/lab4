@@ -10,10 +10,16 @@ The goal of this lab is to fork another team's website and to try to improve it.
 - Designer: [Chadia Bedetse](https://github.com/bchadia)
 - Coder: [Xiabo (Sharon) Ding](https://github.com/xding12)
 
-## Rough Outline of Information Architecture
+## Information Architecture
+IA broken into domain, choreography, ontology, and taxology.
 
-- Domain: Influential idea makers & the ideas that resulted (note that everything we talk about fits both of these descriptions).  
-- Choreography: It's arguable that philosophers (with a focus on logic) have led to the creation of programming languages.  These programming languages shaped the creation of streaming services.  That's how the site will be ordered (in the order of how things affected each other).  Philosophers -> programming languages -> streaming services.  Within each page, the specific examples are ordered by date of creation (e.g. Socrates -> Plato -> Aristotle or Netflix -> Hulu -> YouTube TV).  All ordering found is chronological.
+### Domain
+
+Influential idea makers & the ideas that resulted (note that everything we talk about fits both of these descriptions).  
+
+
+### Choreography
+It's arguable that philosophers (with a focus on logic) have led to the creation of programming languages.  These programming languages shaped the creation of streaming services.  That's how the site will be ordered (in the order of how things affected each other).  Philosophers -> programming languages -> streaming services.  Within each page, the specific examples are ordered by date of creation (e.g. Socrates -> Plato -> Aristotle or Netflix -> Hulu -> YouTube TV).  All ordering found is chronological.
 
 ### Ontology
 
@@ -23,14 +29,14 @@ The goal of this lab is to fork another team's website and to try to improve it.
 - Each specific instance of the topic has a date of creation.
 - Each topic has an impact on modern life.
 
-### Possible taxology
+### Taxology
 
 - Name of Topic
 - Background and Specific Instances
 - Dates of Creation
 - Impact on Modern Day
 
-### Areas of Improvement (from Original Team's Assignment)
+## Areas of Improvement (from Original Team's Assignment)
 
 - The index page is a big block of text that can be broken down.
 - The index page is currently full of filler text; this can be modified to showcase the content.
