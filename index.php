@@ -1,18 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Home | Creators to Creation</title>
-	<link rel="stylesheet" href="css/styles.css">
-
-</head>
-
-<body class="container">
-	<header>
-		<a href="index.html">
-			<h1>Creators to Creation</h1>
-		</a>
-	</header>
+<?php $title = 'Home | Creators to Creation'; ?>
+<?php include "inc/top.php"; ?>
+	
 
 		<aside> <!--sums up how these three topics are connected--> 
 			<p>It's amazing to think about how things have changed from philosphers idealizing about the implications of logic, to the development of programming languages, and then the creation of amazing technologies such as streaming services.</p>
@@ -34,6 +22,7 @@
 					A programming language is a formal language, which comprises a set of instructions used to produce various kinds of output. Logic programming is a type of programming paradigm which is largely based on formal logic. Any program written in a logic programming language is a set of sentences in logical form, expressing facts and rules about some problem domain. A lot of the constructs seen in modern programming languages, like C++, Python, and Java, have their roots in logic, which has its roots in philosophy and mathematics.  Logic is essential to the creation of programming languages and thus the programs that can be built out of these languages.
 				</p>
 			</section>
+			
 			<section class="bottom">
 				<h2>Streaming Services</h2>
 				<p>
@@ -41,17 +30,5 @@
 				</p>
 			</section>
 
-	<nav>
-		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="philosophers.html">Philosophers</a></li>
-			<li><a href="languages.html">Languages</a></li>
-			<li><a href="streaming.html">Streaming</a></li>
-		</ul>
-	</nav>
 
-	<script src="//code.jquery.com/jquery.js"></script>
-	<script src="js/menu-highlighter.js"></script>
-
-</body>
-</html>
+<?php include "inc/bottom.php"; ?>
