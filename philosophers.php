@@ -1,18 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Philosophers</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
-
-<body class="container">
-	<header>
-		<a href="index.html">
-			<h1>Creators to Creation</h1>
-		</a>
-	</header>
-
+<?php $title = 'Philosophers'; ?>
+<?php include "inc/top.php"; ?>
+	
 
 		<aside>
 			<h2>Philosophers</h2>
@@ -53,17 +41,4 @@
 
 		</section>
 
-	<nav>
-		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="philosophers.html">Philosophers</a></li>
-			<li><a href="languages.html">Languages</a></li>
-			<li><a href="streaming.html">Streaming</a></li>
-		</ul>
-	</nav>
-
-	<script src="//code.jquery.com/jquery.js"></script>
-	<script src="js/menu-highlighter.js"></script>
-
-</body>
-</html>
+<?php include "inc/bottom.php"; ?>
